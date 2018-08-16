@@ -1,2 +1,2 @@
 # hello-world
-I'm totally new to codind :D
+I'm totally new to coding :D
